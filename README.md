@@ -10,9 +10,12 @@ Code for 2024 IA 651 Final Project.  Teammates Michael Gilbert and Nisar Killeda
 
 #### GitHub Markdown Cheatsheet
 
+[GitHub Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 #### Images
 
 ![Test Image](lasso_convergence.gif)
 
 ###### Test
+
+Try typing new things
